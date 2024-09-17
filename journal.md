@@ -7,3 +7,6 @@ The Bolt: Light Sensor is one of the three sensors that we have gone over in the
 # September 11, 2024
 For Me: Nothing went wrong at all at least on my part. The instructions were clear and straight to the point. That's why I didn't face any difficulties following the instructions provided. Therefore, you did a good job in giving the instructions, although at the beginning considering others I would say next time have the whole class follow along so that there isn't anyone left behind or confused.
 For You: I didn't have any issues at all with this assignment so I don't really have much to say. Like I said the instructions were super clear and straight to the point without anything else that could potentially cause it be confusing.
+
+# September 17, 2024
+This is a free week.
