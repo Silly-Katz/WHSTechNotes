@@ -10,3 +10,6 @@ For You: I didn't have any issues at all with this assignment so I don't really 
 
 # September 17, 2024
 This is a free week.
+
+# September 24, 2024
+Ease of Use: Python is easier because it is more straightforward and more precise. It actually makes you interact more and understand the properties of the language better. Problem-Solving: The two had specific instructions that were clear and easy to understand which helped me look back at the work to figure out what could possibly be wrong. Flexibility: I have more flexibility and control on python because I am able to code stuff specifically to how I want it without a whole process. Real-World Application: It can help me program website or games. It is something that specific careers look for and it could help you figure out issues in the programming of certain things outside in the real world if one is encountered.
