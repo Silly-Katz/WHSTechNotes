@@ -52,3 +52,8 @@ Brain rot is a term that has been brought up recently with new content coming up
 
 # December 16, 2024
 Yes, I'm super excited and definitely looking forward for the winter break. I just hope I can catch up on my sleeping schedule and spend time with my friends and family.
+
+# January 08, 2025
+1. Lookng back, I will say I liked doing Code Combat. It was pretty entertaining because of the visuals and I feel like more of that would help things stick. It was a good started to jump into coding and it basically explained the functions pretty clearly.
+2. Honestly more projects that engage. I know I didn't participate in them because I am doing something apart, but I feel like projects that can bring everyone together to working would be cool.
+3. I haven't felt that strong liking for coding but it is something cool and I know that it can be useful for future interests I build upon. A certification in Python which is something I am currently working on is something I'd like to obtain with hard work and dedication. It is just so many words and lots to process which kind of throws me back but I know with time and patience I can get it if possible.
