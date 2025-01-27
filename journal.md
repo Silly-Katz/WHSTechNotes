@@ -63,3 +63,11 @@ The shift is going to be harmful for humanity in regards to jobs because human e
 
 # January 22, 2025
 Government intervention can be helpful to ensure users privacy if it isn't being respected, but at the same time that is a job that developers need to resolve. Furthermore, by intervining on something users are agreeing to, they are censoring users. TikTok is an app that a lot of people use to spread information and to express themselves and with the banning, users could have faced censorship if prolonged. I do not thing banning the app is the right way to solve a problem, instead the developers should figure out how to better address the problem and figure out a resolution for it. Simply banning it won't solve it for other people who use it world wide. Some ways that these companies could solve it is by ensuring that they program data security and other privacy formats to ensure that no data is leaked or shared. They should also warn and inform their users about sharing their informaton if they are. A form of consent would be very beneficial and it wouldn't be illegal if the user acknowledges it and goes through with it. From this I have learned that apps shouldn't necessarily be banned because a lot of people enjoy using them. Rather than finding an easy solution which is prohibiting its users from using it, solutions to secure data, and prevent sharing across platforms or companies, new security systems need to be made and informing users needs to be essential when having a person sign up to use it. There is nothing wrong as long as the person consents to it. Government shouldn't always get involved too but rather enforce security for the public and explain their propositions.
+
+# January 27, 2025
+| Name     | Car | Mistake |
+| :------- | :-- | :------ |
+| Jimmy    |Honda Civic     |  Drilled hole in gas tank       |
+| Kayla    |GMC Sierra     | Fixed wrong problem        |
+| Bart     |Toyota Corolla     |Left stains on carpet         |
+| Harrison |Subaru Forester     | Left the oil cap off        |
