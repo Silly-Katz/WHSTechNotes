@@ -54,7 +54,7 @@ Brain rot is a term that has been brought up recently with new content coming up
 Yes, I'm super excited and definitely looking forward for the winter break. I just hope I can catch up on my sleeping schedule and spend time with my friends and family.
 
 # January 08, 2025
-1. Lookng back, I will say I liked doing Code Combat. It was pretty entertaining because of the visuals and I feel like more of that would help things stick. It was a good started to jump into coding and it basically explained the functions pretty clearly.
+1. Looking back, I will say I liked doing Code Combat. It was pretty entertaining because of the visuals and I feel like more of that would help things stick. It was a good started to jump into coding and it basically explained the functions pretty clearly.
 2. Honestly more projects that engage. I know I didn't participate in them because I am doing something apart, but I feel like projects that can bring everyone together to working would be cool.
 3. I haven't felt that strong liking for coding but it is something cool and I know that it can be useful for future interests I build upon. A certification in Python which is something I am currently working on is something I'd like to obtain with hard work and dedication. It is just so many words and lots to process which kind of throws me back but I know with time and patience I can get it if possible.
 
@@ -71,3 +71,8 @@ Government intervention can be helpful to ensure users privacy if it isn't being
 | Kayla    |GMC Sierra     | Fixed wrong problem        |
 | Bart     |Toyota Corolla     |Left stains on carpet         |
 | Harrison |Subaru Forester     | Left the oil cap off        |
+
+# February 3, 2025
+Computer science now plays a major role in big corporations such as aviation companies. Many times it is beneficial as it facilitates the work and makes systems run better. In most cases though, technology can fail and create accidents that can lead to fatality. Dangerous features such as automation and AI in aviation can pose as a threat sometimes and that's because if a problem comes to occur, the technology would not be able to react adjustly. Sometimes rather than avoiding object or dangerous obstacles along the way can lead to disasters as autmation brings the plane or helicopter towards the object. Furthermore, sometimes automation and AI in aviation aren't able to detect the dangers which unfortunately if the pilot isn't paying attention the cost is high as a result. 
+
+In order to ensure that these advanced pieces of technology we work, we must learn how to make them functional to predicting accidents. If they are able to detect the dangers more easily, then there is a high possibility that many accidents can be prevented if the AI in aviation predicts and estimates safety routes in short periods of time to ensure that the plane can move accordingly based on its speed and the speed of the object. This would definitely be an important addition and a new measure of safety even with manual pilots who may not see dangers up ahead. It would be revolutionary and although it may not be 100% accurate it can at least save lives.
