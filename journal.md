@@ -76,3 +76,13 @@ Government intervention can be helpful to ensure users privacy if it isn't being
 Computer science now plays a major role in big corporations such as aviation companies. Many times it is beneficial as it facilitates the work and makes systems run better. In most cases though, technology can fail and create accidents that can lead to fatality. Dangerous features such as automation and AI in aviation can pose as a threat sometimes and that's because if a problem comes to occur, the technology would not be able to react adjustly. Sometimes rather than avoiding object or dangerous obstacles along the way can lead to disasters as autmation brings the plane or helicopter towards the object. Furthermore, sometimes automation and AI in aviation aren't able to detect the dangers which unfortunately if the pilot isn't paying attention the cost is high as a result. 
 
 In order to ensure that these advanced pieces of technology we work, we must learn how to make them functional to predicting accidents. If they are able to detect the dangers more easily, then there is a high possibility that many accidents can be prevented if the AI in aviation predicts and estimates safety routes in short periods of time to ensure that the plane can move accordingly based on its speed and the speed of the object. This would definitely be an important addition and a new measure of safety even with manual pilots who may not see dangers up ahead. It would be revolutionary and although it may not be 100% accurate it can at least save lives.
+
+# February 11, 2025
+
+| Shape     | Color | Count |
+| :------- | :-- | :------ |
+| Circle    | Green     |  7      |
+| Square    | Yellow     | 5|
+| Hexagon    | Brown     | 6    |
+| Triangle | Purple     | 4     |
+| OCtagon | Red     | 3      |
