@@ -86,3 +86,6 @@ In order to ensure that these advanced pieces of technology we work, we must lea
 | Hexagon    | Brown     | 6    |
 | Triangle | Purple     | 4     |
 | OCtagon | Red     | 3      |
+
+# February 18, 2025
+This last week I learned about the different stages after the death of a person. It basically allows medical examiners estimate when a person died which is really important when it comes to investigating a scene. There are multiple parts such as the algor mortis, the clouding of the corneas, the rigor mortis, the livor mortis, the decomposition, and the insect activity. These I found interesting because it fascinates me how much is done behind the scenes when determining the death of a person. It isn't just about the evidence we can see directly, but also the evidence the body leaves behind externally and internally. Furthermore, this opens my eyes to something new that may allow me to broaden my career options before it is to late. This I fortunately learned it in my Principles of Biomedical Science class and it has been connecting to a case thast we have been working on to determine the death of a character. It is super interesting and intriguing in my opinion, and I like all the thinking and analyzing to it. 
