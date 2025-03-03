@@ -95,3 +95,11 @@ Technology could bridge generational language gaps while maintaining professiona
 
 Of course there will be challenges that come to this when having to implement slang translations. Across various platforms people need to code in the function and ensure that it does not run into problems while users use it. Another problem would be having to keep up with the evolving laguage all the time. There is awlays new slang words used on a day to day basis so it is important that it is always monitored and coded into the system to ensure that there isn't any missing pieces of nformation that can potentially stop a person from communicating easily. One last thing to note is that slang will most likely replace lots of common sentences used and it will transform our communcation skills greatly overtime as we begind to rely on slang translations. It could also mean that people will learn new words that aren't always professional, but at the end of the day it connects and builds that bridge between each generation. Leaving no one behind in the progress and overtime become a useful tool that can make jobs easier in the work force or the education system.
 
+# March 3, 2025
+| Name     | Power | Challenge |
+| :------- | :-- | :------ |
+| Zara    | Telekenisis     |  Secure Building      |
+| Aether    | Weather Manipulation     |Prevent Assassination|
+| Thorne    | Invisibility     | Underwater Rescue  |
+| Silver | Mind Control     | Retrieve Stolen Goods|
+| Tangier | Shapeshifting     | Extract Prisoner      |
