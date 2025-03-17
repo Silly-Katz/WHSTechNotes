@@ -103,3 +103,6 @@ Of course there will be challenges that come to this when having to implement sl
 | Thorne    | Invisibility     | Underwater Rescue  |
 | Silver | Mind Control     | Retrieve Stolen Goods|
 | Tangier | Shapeshifting     | Extract Prisoner      |
+
+# March 17, 2025
+I used a lot of social media on my phone and a computer to play video games during my spring break. It definitely helped me stay entertained whenever I wasn't outside or whenever I finished my chores around the house. It also helped me investigate stuff about my college and requirements overall which was helpful. Some challenges were sometimes my slow wifi that would come in when everyone was using it or downloading a game. The technology can basically help in class by helping us use it as a tool to conduct research, program stuff, and stay on track with on going world. It is a great source of information and it can help us communicate with peers and teachers whenever we have questions or need help with something when we are in different classes or at home. 
