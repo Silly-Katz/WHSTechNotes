@@ -1,4 +1,4 @@
-1a wede# August 09, 2024
+# August 09, 2024
 Today, I started my GitHub account and repository. I'm excited to start using GitHub for my projects!
 
 # September 04, 2024
@@ -126,3 +126,8 @@ Currently I have been feeling a little bit sad but my mental state is pretty goo
 AI has proved to many that it can be a helpful resource in many areas. Recently, AI has proved to be a great source to provide students an education within a short time. Students who do school online with AI certified apps are doing coursework in two hours at their pace. Learning more effieciently and succeeding at higher rates than those who attend school the traditional way. Their skills have also shown an enhancement as they are not only learning crucial work but life skills too. Students report that they are able to learn from their mistakes unlike when going to school physically, hence their significant improvement and score averages compared to their peers. Better yet, the app has been approved from k-12 which enables it to be accessed by everyone regardless of their age.
 
 This could be implemented and used by my peers and myself. It doesn't simply have to be to transition us to online learning, but rather as a supplement if needed. It can help struggling students to learn more effectively and understand their mistakes to improve and catch up with the rest of the class. It would also help them study and review for any exams coming up as well as allow them to go beyond expectations quickly. Differen methods can be taught to them that they will be able to understand better with the app working with them specifically, rather than with multiple students like in a traditional setting. This way all needs will be met and not only will the school benefit but students will also in the long-run.
+
+# April 14, 2025
+The banning of phones can be both beneficial but also detrimental dependingnon the policies implemented against them in schools. Certain students will react indifferent and others will react negatively. It is crucial to respect the choices of these students as it is their education at play. Learning experiences can be better for those away from their phone. More attention would be given and tasks could be completed faster than before. Maybe even scores could go up if students apply themsevles and respect the policies. Teachers are also responsible for enforcing the school policies if jot it is pointless. 
+
+If more phone policies were enacted into my school most students would respect it but many would also no reapect them. I know I would abide by them not because of the policies but because I value my education a lot. Obviously students also should be able to use phones if they aren't doing anything or have completed all work. everything should be balanced and adjusted to student needs. Definitely not taking phones away because emergencies happen and students need them to call for help or family members. 
