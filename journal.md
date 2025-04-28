@@ -131,3 +131,10 @@ This could be implemented and used by my peers and myself. It doesn't simply hav
 The banning of phones can be both beneficial but also detrimental dependingnon the policies implemented against them in schools. Certain students will react indifferent and others will react negatively. It is crucial to respect the choices of these students as it is their education at play. Learning experiences can be better for those away from their phone. More attention would be given and tasks could be completed faster than before. Maybe even scores could go up if students apply themsevles and respect the policies. Teachers are also responsible for enforcing the school policies if jot it is pointless. 
 
 If more phone policies were enacted into my school most students would respect it but many would also no reapect them. I know I would abide by them not because of the policies but because I value my education a lot. Obviously students also should be able to use phones if they aren't doing anything or have completed all work. everything should be balanced and adjusted to student needs. Definitely not taking phones away because emergencies happen and students need them to call for help or family members. 
+
+# April 28, 2025
+| Name     | Flavor | Occasion | Price |
+| :------- | :-- | :------ |
+| Sally    | Chocolate |  Graduation   |$35.00|
+| Michael    | Vanilla |Farewell Party|$37.00|
+| Emma   | Carrot  | Birthday | $39.00|
