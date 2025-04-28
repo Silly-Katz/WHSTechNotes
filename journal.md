@@ -133,8 +133,8 @@ The banning of phones can be both beneficial but also detrimental dependingnon t
 If more phone policies were enacted into my school most students would respect it but many would also no reapect them. I know I would abide by them not because of the policies but because I value my education a lot. Obviously students also should be able to use phones if they aren't doing anything or have completed all work. everything should be balanced and adjusted to student needs. Definitely not taking phones away because emergencies happen and students need them to call for help or family members. 
 
 # April 28, 2025
-| Name     | Flavor | Occasion | Price |
-| :------- | :-- | :------ |
+| Name     | Flavor | Occasion | Price|
+| :------- | :-- | :------ | :------ |
 | Sally    | Chocolate |  Graduation   |$35.00|
 | Michael    | Vanilla |Farewell Party|$37.00|
 | Emma   | Carrot  | Birthday | $39.00|
